@@ -95,3 +95,6 @@ int main() {
     printf("%d",getHeight(root));
     return 0;
 }
+output:
+~/19ECB132-8$ gcc Binarytreeheight.c
+~/19ECB132-8$ ./a.out
