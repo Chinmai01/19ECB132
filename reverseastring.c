@@ -21,8 +21,8 @@ int main()
 
   printf("\nString After Reverse: %s", rev);
 }
-output:
+/*output:
 chinmai
 
 String Before Reverse: chinmai
-String After Reverse: iamnihc
+String After Reverse: iamnihc*/

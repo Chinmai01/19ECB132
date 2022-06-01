@@ -8,7 +8,7 @@ sum = a + b;
 printf("Sum : %d", sum);
 return(0);
 }
-output:
+/*output:
 Enter two no: 45
 54
-Sum : 99
+Sum : 99*/

@@ -132,7 +132,7 @@ int main(void) {
     
   }
 }
-output:
+/*output:
 1. Stack using Array
 2. Queue using Array
 3. Stack using Linked List
@@ -164,4 +164,4 @@ No elements in the stack
 
 Invalid choice
  1. Push     2. Pop      3. Display      4. Return to previous menu 
- Choose an option: 
+ Choose an option:*/ 

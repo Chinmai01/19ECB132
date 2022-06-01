@@ -21,8 +21,8 @@ int fact(int aj)
     else
         return (aj*fact(aj-1));
 }
-output:
+/*output:
 Enter a number: 5
 
 
-Factorial of  5 is  120
+Factorial of  5 is  120*/
