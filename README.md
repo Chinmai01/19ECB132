@@ -11,3 +11,7 @@
 [preordertraversalbinarytree.c](preordertraversalbinarytree.c)
 [reversenumbers.c](reversenumbers.c)
 [sumoftwonumbers.c](sumoftwonumbers.c)
+[facofnumthroughrecursion.c](facofnumthroughrecursion.c)
+[reversestring.c](reversestring.c)
+[sizeofvariables.c](sizeofvariables)
+[swaptwonumbers.c](swaptwonumbers.c)
