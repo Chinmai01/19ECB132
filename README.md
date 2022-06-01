@@ -2,7 +2,7 @@
 
 ## INDEX
 [Adddeletemodifyelementinanarray.c](Adddeletemodifyelementinanarray.c)       
-[Adddeletemodifyelementinasinglelinekedlist.c](Adddeletemodifyelementinasinglelinekedlist.c)                  
+[Adddeletemodifyelementinasinglelinkedlist.c](Adddeletemodifyelementinasinglelinkedlist.c)                  
 [Binarytreeheight.c](Binarytreeheight.c)                       
 [Doublelinkedlist.c](Doublelinkedlist.c)                                    
 [binarytree.c](binarytree.c)                                  
