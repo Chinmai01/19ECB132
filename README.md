@@ -13,5 +13,5 @@
 [sumoftwonumbers.c](sumoftwonumbers.c)                   
 [facofnumthroughrecursion.c](facofnumthroughrecursion.c)                        
 [reversestring.c](reversestring.c)              
-[sizeofvariables.c](sizeofvariables)                   
+[sizeofvariables.c](sizeofvariables.c)                   
 [swaptwonumbers.c](swaptwonumbers.c)                     
